@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="epilepsywebsiteModelStoreContainer" CdmEntityContainer="epilepsywebsiteEntities">
+    <EntitySetMapping Name="users">
+      <EntityTypeMapping TypeName="epilepsywebsiteModel.users">
+        <MappingFragment StoreEntitySet="users">
+          <ScalarProperty Name="IdUser" ColumnName="IdUser" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="UserPasswordHash" ColumnName="UserPasswordHash" />
+          <ScalarProperty Name="UserRoleTypeId" ColumnName="UserRoleTypeId" />
+          <ScalarProperty Name="UserCreateTime" ColumnName="UserCreateTime" />
+          <ScalarProperty Name="iffrozen" ColumnName="iffrozen" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

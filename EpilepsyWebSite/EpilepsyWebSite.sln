@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpilepsyWebSite", "EpilepsyWebSite\EpilepsyWebSite.csproj", "{C6071167-475B-4D39-8FDD-6983F3CC5A2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epilepsy", "Epilepsy\Epilepsy.csproj", "{A738C4B4-5776-45E4-9A62-F7AAA891D7CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C6071167-475B-4D39-8FDD-6983F3CC5A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C6071167-475B-4D39-8FDD-6983F3CC5A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C6071167-475B-4D39-8FDD-6983F3CC5A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C6071167-475B-4D39-8FDD-6983F3CC5A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A738C4B4-5776-45E4-9A62-F7AAA891D7CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A738C4B4-5776-45E4-9A62-F7AAA891D7CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A738C4B4-5776-45E4-9A62-F7AAA891D7CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A738C4B4-5776-45E4-9A62-F7AAA891D7CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

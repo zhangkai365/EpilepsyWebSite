@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection 由应用程序在 web.config 中用来访问数据库的连接字符串。" defaultValue="Data Source=(LocalDb)\v11.0;Initial Catalog=aspnet-EpilepsyWebSite-20140712001601;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\aspnet-EpilepsyWebSite-20140712001601.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Win7x64_20140606\\Documents\\GitHub\\EpilepsyWebSite\\EpilepsyWebSite\\EpilepsyWebSite\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="epilepsywebsiteEntities-Web.config Connection String" description="epilepsywebsiteEntities 由应用程序在 web.config 中用来访问数据库的连接字符串。" defaultValue="metadata=res://*/Data.EpilepsyWebSite.csdl|res://*/Data.EpilepsyWebSite.ssdl|res://*/Data.EpilepsyWebSite.msl;provider=MySql.Data.MySqlClient;provider connection string=&quot;server=192.168.1.15;user id=zhangkai365;password=@Zhangkai851983;persistsecurityinfo=True;database=epilepsywebsite&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Win7x64_20140606\\Documents\\GitHub\\EpilepsyWebSite\\EpilepsyWebSite\\EpilepsyWebSite\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='epilepsywebsiteEntities']/@connectionString" />
+  </parameter>
+</parameters>
