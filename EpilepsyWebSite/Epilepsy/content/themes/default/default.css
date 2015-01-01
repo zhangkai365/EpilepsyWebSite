@@ -1,0 +1,87 @@
+﻿/*This is the Default css for the Epilepsy WebSite*/
+/*Version:2014-09-21-1725*/
+/*Author: zhangkai*/
+/*Date:2014-09-21*/
+
+body {
+    Font-size:16px;
+    margin:0;
+    padding:0 0 0 0;
+}
+
+a {
+    text-decoration:none;
+}
+
+#outer{
+    width:1000px;
+    margin:0 auto;
+    background-image:url('/content/themes/default/image/outer_bg.jpg');
+    background-repeat:repeat-y;
+}
+#header{
+    width:960px;
+    height:150px;
+    margin:0 20px;
+    padding:0;
+    background-image:url('/content/themes/default/image/header/header_bg_withlogo.jpg');
+    background-repeat:repeat-y;
+}
+#nav{
+    width:960px;
+    height:35px;
+    margin:0 20px;
+    padding:0;
+    background-image:url('/content/themes/default/image/nav/nav_bg.jpg');
+    background-repeat:repeat-x;
+}
+.navmenu{
+    display:inline;
+    list-style-type:none;
+    margin-left:3em;
+}
+.navmenu li{
+    float:left;
+    margin-left:3em;
+    line-height:30px;
+}
+.navmenu li a{
+    color:white;
+}
+.navmenu li a:hover{
+    color:red;
+}
+#mainbody{
+    width:960px;
+    margin:0;
+    padding:20px;
+    clear:both;
+    overflow:hidden;
+}
+#footer{
+    width:960px;
+    margin:0 20px;
+    padding:0;
+    background-image:url('/content/themes/default/image/footer/footer_bg.jpg');
+    background-repeat:repeat-x;
+}
+#footer p{
+    margin:5px auto 5px auto;
+    text-align:center;
+    color:white;
+}
+.clearfloat{
+    clear:both;
+}
+.columnleft{
+    width:660px;
+    float:left;
+    margin:0;
+    overflow:hidden;
+}
+.columnright{
+    width:240px;
+    float:right;
+    margin:0;
+    overflow:hidden;
+}

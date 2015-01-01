@@ -38,6 +38,6 @@ C:\Users\Win7x64_20140606\Documents\GitHub\EpilepsyWebSite\EpilepsyWebSite\Epile
 C:\Users\Win7x64_20140606\Documents\GitHub\EpilepsyWebSite\EpilepsyWebSite\Epilepsy\bin\zh-Hans\System.Web.WebPages.resources.dll
 C:\Users\Win7x64_20140606\Documents\GitHub\EpilepsyWebSite\EpilepsyWebSite\Epilepsy\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 C:\Users\Win7x64_20140606\Documents\GitHub\EpilepsyWebSite\EpilepsyWebSite\Epilepsy\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-C:\Users\Win7x64_20140606\Documents\GitHub\EpilepsyWebSite\EpilepsyWebSite\Epilepsy\obj\Debug\Epilepsy.dll
-C:\Users\Win7x64_20140606\Documents\GitHub\EpilepsyWebSite\EpilepsyWebSite\Epilepsy\obj\Debug\Epilepsy.pdb
-C:\Users\Win7x64_20140606\Documents\GitHub\EpilepsyWebSite\EpilepsyWebSite\Epilepsy\obj\Debug\Epilepsy.csprojResolveAssemblyReference.cache
+C:\Users\Win7x64_20140606\Documents\GitHub\EpilepsyWebSite\EpilepsyWebSite\Epilepsy\obj\Release\Epilepsy.dll
+C:\Users\Win7x64_20140606\Documents\GitHub\EpilepsyWebSite\EpilepsyWebSite\Epilepsy\obj\Release\Epilepsy.pdb
+C:\Users\Win7x64_20140606\Documents\GitHub\EpilepsyWebSite\EpilepsyWebSite\Epilepsy\obj\Release\Epilepsy.csprojResolveAssemblyReference.cache

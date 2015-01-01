@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="/Content/Themes/Default/Default.css" media="screen" type="text/css" />
+</head>
+<body>
+    <div id="outer">
+        <div id="header">
+
+        </div>
+        <div id="nav">
+            <ul class="navmenu">
+                <li><a href="/Home/Index">首    页</a></li>
+                <li><a href="/Introduce/Index">协会介绍</a></li>
+                <li><a href="/News/Index">新闻动态</a></li>
+                <li><a href="/Contact/Index">联系我们</a></li>
+            </ul>
+        </div>
+        <div id="mainbody">
+            @RenderBody()
+        </div>
+        <div id="footer" class="clearfloat" >
+            <p>CopyRight&copy 天津市抗癫痫协会  医患携手，战胜癫痫！</p>
+            <p>联系方式：天津市鞍山道154号天津医科大学总医院   电话：XXXX—XXXX</p>
+        </div>
+    </div>
+</body>
+</html>
